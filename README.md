@@ -1,0 +1,1 @@
+"#GoofyCoins -Here in GoofyCoins, source of coin generation is Goofy. We should hava a track of all the coin tranactions done by both Goofy and other users. In this we use two keys public and private keys only public key is visible to the user and private key is used for the tranactions which is not visible to the other users." 
